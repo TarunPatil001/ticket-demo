@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       { hostname: "successful-wolverine-514.convex.cloud", protocol: "https" },
-      // { hostname: "wary-anaconda-29.convex.cloud", protocol: "https" },
+      { hostname: "precious-bullfrog-842.convex.cloud", protocol: "https" },
     ],
   },
 };
