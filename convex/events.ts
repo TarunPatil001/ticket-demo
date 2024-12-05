@@ -107,6 +107,7 @@ export const checkAvailability = query({
   },
 });
 
+
 // Join waiting list for an event
 export const joinWaitingList = mutation({
   // Function takes an event ID and user ID as arguments
@@ -185,6 +186,7 @@ export const joinWaitingList = mutation({
     };
   },
 });
+
 
 // Purchase ticket
 export const purchaseTicket = mutation({
